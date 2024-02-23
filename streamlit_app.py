@@ -17,7 +17,7 @@ alt.themes.enable("dark")
 
 #######################
 # Load data
-file_path='data/data.json'
+file_path='data.json'
 with open(file_path, "r") as file:
     json_data = json.load(file)
 
