@@ -1,0 +1,7 @@
+{"stepReports":[
+    {"stepIndex": 0,  "isSuccessful": "true", "httpRequestExecutionTime": 2, "responseTime": 1, "preHookExecutionTime": 6, "postHookExecutionTime": 2},
+    {"stepIndex": 1,  "isSuccessful": "true", "httpRequestExecutionTime": 3, "responseTime": 4, "preHookExecutionTime": 9, "postHookExecutionTime": 3},
+    {"stepIndex": 2,  "isSuccessful": "false", "httpRequestExecutionTime": 1, "responseTime": 2, "preHookExecutionTime": 2, "postHookExecutionTime": 8},
+    {"stepIndex": 3,  "isSuccessful": "true", "httpRequestExecutionTime": 4, "responseTime": 2, "preHookExecutionTime": 3, "postHookExecutionTime": 4}],
+    "timeTakenByAllStepReports":60
+}
